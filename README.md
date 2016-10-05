@@ -8,7 +8,7 @@ toggle buttons at the bottom of the UI to select which of the 5 octave partials 
 control the overall gain of the sound being produced as well as the frequency of the lowest partial
 using the sliders.
 
-A short video of the application in action can be found here:
+A short video of the application in action can be found here:  https://youtu.be/9_nc9HXKOUE
 
 Have fun!
 
